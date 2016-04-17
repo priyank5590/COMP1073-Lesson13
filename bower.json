@@ -1,0 +1,26 @@
+{
+  "name": "COMP1073-Lesson13",
+  "authors": [
+    "priyank5590 <vyaspriyank5@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "scripts/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "font-awesome": "^4.6.1",
+    "bootstrap": "^3.3.6",
+    "EaselJS": "easeljs#^0.8.2",
+    "tween.js": "tweenjs#^16.3.4",
+    "preloadjs": "*"
+  }
+}
